@@ -2,14 +2,14 @@
 
 ###  💻 Sobre o desafio
  Realizar dois processos de migração: de Javascript para Typescript e de
-* Class Components.
-<img src="" /> <br/>
+* Class Components. <br/>
+<img src="https://github.com/jose-rgb/GoRestaurant/blob/master/.github/class.png" /> <br/>
  para
 * Function Components.
-<img src="" />
+<img src="https://github.com/jose-rgb/GoRestaurant/blob/master/.github/function.png" />
 
 ### 📸 Screenshot
-<img src="" />
+<img src="https://github.com/jose-rgb/GoRestaurant/blob/master/.github/app.png" />
 
 ## ⏯ Como usar 
 ### 🖥⚙️ Dependências 
@@ -19,7 +19,7 @@
 
 #### Clone esse repositório
 ```
-git clone https://github.com/jose-rgb/ecommerce-rocktshoes.git
+git clone https://github.com/jose-rgb/GoRestaurant.git
 ```
 
 #### Baixe as dependências da aplicação
@@ -53,6 +53,6 @@ yarn server
 yarn start
 ```
 ## 🎥 Vídeo Demonstrativo
-<a href="https://www.youtube.com/watch?v=-EKj90-F9Pk">
+<a href="https://youtu.be/tQI43PmTZxk">
     <img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"  height="40" width="40" />
 <a>
