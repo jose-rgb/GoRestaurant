@@ -54,5 +54,5 @@ yarn start
 ```
 ## 🎥 Vídeo Demonstrativo
 <a href="https://youtu.be/tQI43PmTZxk">
-    <img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"  height="40" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"  height="40" width="40" />
 <a>
